@@ -1,0 +1,71 @@
+
+/* HEADER */
+a
+{text-decoration: none;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:black;
+margin: 50px} 
+
+h1 {
+
+    color:black
+} 
+
+h2 {
+
+    color:black
+
+} 
+
+h3 {
+
+    color:blue
+
+} 
+
+
+header {
+
+    background-color:lavender;
+    text-align: center;
+
+}
+
+body {
+    background-color: lightpink
+}
+main  {
+ 
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    
+}  
+
+menu{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+
+}  
+
+
+ 
+
+form {
+    text-align: center;
+    background-color:lavender
+}
+footer {
+    background-color:lavender;
+    text-align: center;
+}
